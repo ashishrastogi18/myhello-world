@@ -8,43 +8,66 @@ No,Description,Item
 7,"Microsoft - Surface Pro 6 - 12.3"" Touch Screen - Intel Core i5 - 8GB Memory - 256GB SSD - With Keyboard and Surface Pen - Black",Electronincs
 8,"Acer Aspire E 15 Laptop, 15.6"" Full HD, 8th Gen Intel Core i5-8250U, GeForce MX150, 8GB RAM Memory, 256GB SSD, E5-576G-5763",Electronics
 9,"Lenovo 130S-11IGM 11.6"" HD Laptop, Intel Celeron N4000, 4GB RAM, 64GB eMMC, 1-Year Office 365, Windows 10 in S Model - Gray",Electronincs
-10,"Acer Aspire 1 A114-32-C1YA, 14"" Full HD, Intel Celeron N4000, 4GB DDR4, 64GB eMMC, Office 365 Personal, Windows 10 Home in S mode",Electronics
-11,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
-12,Gildan Men's Assorted Crew T-Shirt Multipack,Mens Fashion
-13,"Amazon Brand - Goodthreads Men's ""The Perfect V-Neck T-Shirt"" Short-Sleeve Cotton",Mens Fashion
-14,Nautica Men's Classic Short Sleeve Solid Polo Shirt,Mens Fashion
-15,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
-16,Gildan Men's Assorted Crew T-Shirt Multipack,Mens Fashion
-17,"Amazon Brand - Goodthreads Men's ""The Perfect V-Neck T-Shirt"" Short-Sleeve Cotton",Mens Fashion
-18,Nautica Men's Classic Short Sleeve Solid Polo Shirt,Mens Fashion
-19,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
-20,Gildan Men's Assorted Crew T-Shirt Multipack,Mens Fashion
-21,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
-22,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
-23,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
-24,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
-25,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
-26,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
-27,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
-28,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
-29,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
-30,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
-31,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
-32,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
-33,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
-34,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
-35,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
-36,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
-37,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
-38,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
-39,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
-40,"Navel Oranges, each",FreshFruit
-41,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
-42,"Honeycrisp Apples, each",FreshFruit
-43,"Organic Bananas, bunch",FreshFruit
-44,"Navel Oranges, each",FreshFruit
-45,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
-46,"Honeycrisp Apples, each",FreshFruit
-47,"Organic Bananas, bunch",FreshFruit
-48,"Navel Oranges, each",FreshFruit
-49,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
+10,"Microsoft - Surface Pro 6 - 12.3"" Touch Screen - Intel Core i5 - 8GB Memory - 256GB SSD - With Keyboard and Surface Pen - Black",Electronincs
+11,"Acer Aspire 1 A114-32-C1YA, 14"" Full HD, Intel Celeron N4000, 4GB DDR4, 64GB eMMC, Office 365 Personal, Windows 10 Home in S mode",Electronics
+12,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
+13,Gildan Men's Assorted Crew T-Shirt Multipack,Mens Fashion
+14,"Amazon Brand - Goodthreads Men's ""The Perfect V-Neck T-Shirt"" Short-Sleeve Cotton",Mens Fashion
+15,Nautica Men's Classic Short Sleeve Solid Polo Shirt,Mens Fashion
+16,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
+17,Gildan Men's Assorted Crew T-Shirt Multipack,Mens Fashion
+18,"Amazon Brand - Goodthreads Men's ""The Perfect V-Neck T-Shirt"" Short-Sleeve Cotton",Mens Fashion
+19,Nautica Men's Classic Short Sleeve Solid Polo Shirt,Mens Fashion
+20,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
+21,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
+22,Gildan Men's Assorted Crew T-Shirt Multipack,Mens Fashion
+23,"Amazon Brand - Goodthreads Men's ""The Perfect V-Neck T-Shirt"" Short-Sleeve Cotton",Mens Fashion
+24,Nautica Men's Classic Short Sleeve Solid Polo Shirt,Mens Fashion
+25,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
+26,Gildan Men's Assorted Crew T-Shirt Multipack,Mens Fashion
+27,"Amazon Brand - Goodthreads Men's ""The Perfect V-Neck T-Shirt"" Short-Sleeve Cotton",Mens Fashion
+28,Nautica Men's Classic Short Sleeve Solid Polo Shirt,Mens Fashion
+29,Amazon Brand - Goodthreads Men's Slim-Fit Long-Sleeve Linen and Cotton Blend Shirt,Mens Fashion
+30,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
+31,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
+32,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
+33,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
+34,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
+35,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
+36,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
+37,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
+38,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
+39,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
+40,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
+41,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
+42,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
+43,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
+44,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
+45,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
+46,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
+47,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
+48,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
+49,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
+50,Ceramic Bowl Salad Bowl Breakfast Bowl Dormitory Bowl Rice Bowl Fruit Bowl Family Kitchen Cute Japanese Bowl Family Party Food Bowl,Kitchen & Dining
+51,"Electric Hand Mixer 2 in 1 Stand Mixer 6 Speed with Turbo and Easy Eject Button, Includes Sturdy Beaters, Dough Hooks and Bowl, Stainless Steel, Aicok",Kitchen & Dining
+52,"KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer with Pouring Shield, 5-Quart, Empire Red",Kitchen & Dining
+53,"Hamilton Beach 64650 6-Speed Classic Stand Mixer, Stainless Steel, 4-Quart Bowl and Accessories",Kitchen & Dining
+54,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
+55,"Honeycrisp Apples, each",FreshFruit
+56,"Organic Bananas, bunch",FreshFruit
+57,"Navel Oranges, each",FreshFruit
+58,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
+59,"Honeycrisp Apples, each",FreshFruit
+60,"Organic Bananas, bunch",FreshFruit
+61,"Navel Oranges, each",FreshFruit
+62,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
+63,"Navel Oranges, each",FreshFruit
+64,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
+65,"Honeycrisp Apples, each",FreshFruit
+66,"Organic Bananas, bunch",FreshFruit
+67,"Navel Oranges, each",FreshFruit
+68,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
+69,"Honeycrisp Apples, each",FreshFruit
+70,"Organic Bananas, bunch",FreshFruit
+71,"Navel Oranges, each",FreshFruit
+72,"Organic Mandarin Oranges, 2lb Bag",FreshFruit
