@@ -1,36 +1,36 @@
 Candidate Name,Skill 1,Skill 1 Description,Skill 2,Skill 2 Description,Handeled Team,Years of Experience,Potential Candidate
-Candidate1,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate2,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate3,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate4,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate5,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate6,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate7,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate8,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate9,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate10,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate11,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate12,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate13,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate14,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate15,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate16,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate17,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate18,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate19,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate20,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate21,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate22,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate23,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate24,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate25,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate26,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate27,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate28,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate29,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
-Candidate30,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
-Candidate31,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
-Candidate32,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
+Candidate1,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate2,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate3,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate4,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate5,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate6,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate7,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate8,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate9,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate10,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate11,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate12,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate13,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate14,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate15,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate16,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate17,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate18,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate19,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate20,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate21,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate22,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate23,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate24,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate25,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate26,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate27,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate28,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate29,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
+Candidate30,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5",
+Candidate31,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13",
+Candidate32,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10",
 Candidate33,"	SharePoint","	Rest APIs","	SPFx","	Developed a basic webpart","	Yes","	5","	Yes"
 Candidate34,"	SharePoint","	Integrated SharePoint with Azure and Tableau","	SPFx","	Developed Spfx webparts","	Yes","	13","	Yes"
 Candidate35,"	SharePoint","	Implemented ootb solution","	SPFx","	Theoritical knowledge","	No","	10","	No"
